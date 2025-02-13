@@ -17,6 +17,6 @@ jobs:
           username: ${{ secrets.EMAIL_USERNAME }}
           password: ${{ secrets.EMAIL_PASSWORD }}
           subject: "GitHub Repository Updated"
-          body: "Hello Professor,\n\nA new update has been pushed to the repository: https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME\n\nBest Regards,\nYour Student"
+          body: "Hello Professor,\n\nA new update has been pushed to the repository: https://github.com/rinneackerman/Saloni-s-FPGA-Project.git\n\nBest Regards,\nYour Student"
           to: "salonitkhule@gmail.com"
           from: "rinneackerman@gmail.com"
