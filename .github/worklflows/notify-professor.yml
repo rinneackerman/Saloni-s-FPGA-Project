@@ -1,0 +1,22 @@
+name: Notify Professor on Update
+
+on: 
+  push:
+    branches:
+      - main  # Change if using a different branch
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send Email Notification
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 587
+          username: ${{ secrets.EMAIL_USERNAME }}
+          password: ${{ secrets.EMAIL_PASSWORD }}
+          subject: "GitHub Repository Updated"
+          body: "Hello Professor,\n\nA new update has been pushed to the repository: https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME\n\nBest Regards,\nYour Student"
+          to: "salonitkhule@gmail.com"
+          from: "rinneackerman@gmail.com"
