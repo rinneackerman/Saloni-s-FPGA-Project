@@ -32,7 +32,7 @@
 
           logs/DD-MM-YYYY.md
 
-         (this creates new directory named as "logs"  whic includes the file)
+   (this creates new directory named as "logs"  whic includes the file)
 
     --> "DD-MM-YYYY"  enter the date the day you completed your task and commited the file of your progress on GITHUB.🙂
 
@@ -49,41 +49,37 @@
            4. attach photo (NOT MANDATORY)
 
              --> if using github on PC/DESKTOP , copy the image and paste it in your file.
-
-               (it may appear as url while editing.After edit image will be displayed.ALsO USE "JPG" or "PNG" as the only
-
-   extensions)
-
-               🟡please use github on web since github app on mobile has limit editing and access options.
+       (it may appear as url while editing.After edit image will be displayed.ALsO USE "JPG" or "PNG" as the only
+         extensions)
+       🟡please use github on web since github app on mobile has limit editing and access options.
 
 
 6) Repeat STEP 3  for every entry you commit.
 
 7) While commiting the changes, a option for "COMMIT MESSAGE "will be displayed. 
 
-    KINDLY ADD MESSAGE which is meaningful and short. 
+       KINDLY ADD MESSAGE which is meaningful and short. 
+         for example : "updated this file" OR "made changes"
 
-   for example : "updated this file" OR "made changes"
+9) YOU CAN ALSO CREATE SUCH FILES FOR STORING IMAGES
 
-9) YOU CAN ALSO CREATE SUCH FILES FOR STORING IMAGES, i.e circuit diagram, step-to-step guide of project,code and even
-
-   report.(outside of log file)
-
-   KEEP EVERYTHING ORGANISED AND MESS-FRESS!
+         i.e circuit diagram, step-to-step guide of project,code and even
+        report.(outside of log file)
+         KEEP EVERYTHING ORGANISED AND MESS-FRESS!
 
 11) ⚠️DONT FORGET TO COMMIT CHANGES FOR EVeRY CHANGE/EDIT YOU DO TO A FILE.
 
 12) 🟢 HOW TO SHARE URL TO RESPECTIVE GUIDE 🟢
 
-     1. Go to <> CODE tab
+        1. Go to <> CODE tab
      
-     2. Click on green button named as <>CODE
+        2. Click on green button named as <>CODE
      
-     3. select Local
+        3. select Local
      
-     4. Select HTTPS
+        4. Select HTTPS
      
-     5. Copy the URL of your repository and share it Professor via Whatsapp.
+        5. Copy the URL of your repository and share it Professor via Whatsapp.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🏵️FOR GUIDES:
@@ -101,6 +97,7 @@
       4.You will see all changes made, along with dates and usernames.
      
   🕒 View Commit History
+      
       1.Go to the repository’s main page.
       2.Click "Commits" (near the top).
       3.This will show a list of all updates, including:
@@ -109,4 +106,4 @@
         💠The commit message
 
 
-                    ##THANK YOU##
+                   
