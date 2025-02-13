@@ -9,3 +9,6 @@ from rinneackerman@gmail.com
 lauching test 2
 hope notification recahes to recipitent
 test 3
+--FAILED
+test 4 
+enabling watch command (thorugh mobile--->clikc on bell notification --> click on all acvtivity) "for prof"
