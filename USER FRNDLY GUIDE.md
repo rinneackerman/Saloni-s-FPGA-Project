@@ -1,6 +1,9 @@
 ⭐STEPS TO CREATE REPO AND USE IT AS LOGBOOK⭐
+
 [please follow instructions to keep everything hassle free. THANK YOU]
+
 🏵️FOR STUDENTS:
+
 1) Create GitHub account.(if possible connect/link it to your gmail)
 
 2) MADATORY STEPS TO CREATE A REPOSITORY (PLS FOLLOW STRICTLY)
@@ -61,4 +64,4 @@
         💠The commit message
 
 
-#THANK YOU#
+                    ##THANK YOU##
